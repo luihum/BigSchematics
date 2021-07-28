@@ -1,0 +1,5 @@
+name: "Big Schematics"
+description: "Up to 128x128 schematics!"
+author: Luihum
+minGameVersion: 126
+version: 0.1.0
